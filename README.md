@@ -10,7 +10,6 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>  <img src="https://img.shields.io/badge/Notion-333333?style=flat-square&logo=Notion&logoColor=white"/>  
 
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=GYMMX&fontAlign=74&fontAlignY=40&color=gradient)
 
 
 
