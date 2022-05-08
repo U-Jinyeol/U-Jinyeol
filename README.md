@@ -10,14 +10,6 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>  <img src="https://img.shields.io/badge/Notion-333333?style=flat-square&logo=Notion&logoColor=white"/>  
 
 
-### 📊 Github Stats
-<a href='https://github.com/U-Jinyeol/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/U-Jinyeol/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/U-Jinyeol/github-stats-transparent/output/generated/languages.svg)
-
-</a>
-
 
 
 ![아이디's github stats](https://github-readme-stats.vercel.app/api?username=U-Jinyeol&show_icons=true)
