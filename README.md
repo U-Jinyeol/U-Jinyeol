@@ -13,4 +13,4 @@
 
 
 
-![아이디's github stats](https://github-readme-stats.vercel.app/api?username=GYMMX&show_icons=true)
+![아이디's github stats](https://github-readme-stats.vercel.app/api?username=U-Jinyeol&show_icons=true)
