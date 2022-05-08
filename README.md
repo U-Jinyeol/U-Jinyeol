@@ -10,6 +10,11 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>  <img src="https://img.shields.io/badge/Notion-333333?style=flat-square&logo=Notion&logoColor=white"/>  
 
 
+#### &#x1f4c8; GitHub Stats
+<a href="https://github.com/U-Jinyeol/U-Jinyeol">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=U-Jinyeol&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/U-Jinyeol/U-Jinyeol">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=U-Jinyeol&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
 
-
-![아이디's github stats](https://github-readme-stats.vercel.app/api?username=U-Jinyeol&show_icons=true)
