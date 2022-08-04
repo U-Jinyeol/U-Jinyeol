@@ -14,7 +14,7 @@
 
 <!-- ![Python](https://img.shields.io/badge/-Python-000?&logo=Python) -->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![JavaScript](https://img.shields.io/badge/-TypeScirpt-000?&logo=TypeScript)
+<!-- ![JavaScript](https://img.shields.io/badge/-TypeScirpt-000?&logo=TypeScript) -->
 
 
 ### Stacks
